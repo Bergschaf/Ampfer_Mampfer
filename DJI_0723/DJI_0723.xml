@@ -1,0 +1,26 @@
+<annotation>
+	<folder>DJI_0723</folder>
+	<filename>DJI_0723.jpg</filename>
+	<path>C:\Users\info\Documents\Ampfer_Mampfer\DJI_0723\DJI_0723.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3992</width>
+		<height>2992</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Torpfosten links</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>444</xmin>
+			<ymin>2515</ymin>
+			<xmax>450</xmax>
+			<ymax>2525</ymax>
+		</bndbox>
+	</object>
+</annotation>

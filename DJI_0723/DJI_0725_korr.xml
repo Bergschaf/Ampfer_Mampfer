@@ -1,0 +1,86 @@
+<annotation>
+	<folder>DJI_0723</folder>
+	<filename>DJI_0725_korr.jpg</filename>
+	<path>C:\Users\info\Documents\Ampfer_Mampfer\DJI_0723\DJI_0725_korr.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3992</width>
+		<height>2992</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Torpfosten links</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1758</xmin>
+			<ymin>1577</ymin>
+			<xmax>1758</xmax>
+			<ymax>1578</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Eck Sportplatz</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>705</xmin>
+			<ymin>1631</ymin>
+			<xmax>708</xmax>
+			<ymax>1634</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Eck Gemiendehlaae am Sportplatz</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3172</xmin>
+			<ymin>2169</ymin>
+			<xmax>3172</xmax>
+			<ymax>2174</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Eck Gemiendehalle am Eingagn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3161</xmin>
+			<ymin>2816</ymin>
+			<xmax>3162</xmax>
+			<ymax>2820</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Eck Schule am sonnensegel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3816</xmin>
+			<ymin>1387</ymin>
+			<xmax>3820</xmax>
+			<ymax>1392</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Schwimmhalle beim SFZ Eingang</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2448</xmin>
+			<ymin>1932</ymin>
+			<xmax>2451</xmax>
+			<ymax>1934</ymax>
+		</bndbox>
+	</object>
+</annotation>

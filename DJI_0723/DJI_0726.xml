@@ -1,0 +1,62 @@
+<annotation>
+	<folder>DJI_0723</folder>
+	<filename>DJI_0726.jpg</filename>
+	<path>C:\Users\info\Documents\Ampfer_Mampfer\DJI_0723\DJI_0726.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3992</width>
+		<height>2992</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Torpfosten links</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1848</xmin>
+			<ymin>2491</ymin>
+			<xmax>1850</xmax>
+			<ymax>2492</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Eck Sportplatz</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>789</xmin>
+			<ymin>2547</ymin>
+			<xmax>790</xmax>
+			<ymax>2551</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Eck Schule am sonnensegel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3915</xmin>
+			<ymin>2402</ymin>
+			<xmax>3921</xmax>
+			<ymax>2408</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Schwimmhalle beim SFZ Eingang</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2545</xmin>
+			<ymin>2893</ymin>
+			<xmax>2545</xmax>
+			<ymax>2898</ymax>
+		</bndbox>
+	</object>
+</annotation>

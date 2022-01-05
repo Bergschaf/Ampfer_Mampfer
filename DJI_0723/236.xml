@@ -1,0 +1,50 @@
+<annotation>
+	<folder>DJI_0723</folder>
+	<filename>236.JPG</filename>
+	<path>C:\Users\info\Documents\Ampfer_Mampfer\DJI_0723\236.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>3000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Einfahrt übergang zu kiesweg von der starße aus links</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3666</xmin>
+			<ymin>646</ymin>
+			<xmax>3670</xmax>
+			<ymax>650</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>banket einfjart rechts</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3936</xmin>
+			<ymin>542</ymin>
+			<xmax>3936</xmax>
+			<ymax>551</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Einfahrt kiesweg übergang von der Starße aus rechts</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3698</xmin>
+			<ymin>561</ymin>
+			<xmax>3704</xmax>
+			<ymax>567</ymax>
+		</bndbox>
+	</object>
+</annotation>

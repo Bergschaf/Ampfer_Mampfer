@@ -1,0 +1,14 @@
+<annotation>
+	<folder>Niedrig</folder>
+	<filename>100</filename>
+	<path>C:/Users/info/Documents/.Ampferroboter/Object_Detection/Niedrig/100.JPG</path>
+	<source>
+		<database>Ampfer</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>3000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>
