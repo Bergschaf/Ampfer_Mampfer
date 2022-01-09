@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9a076f73-4526-4478-83bf-946f4335d55b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Ampfer/README.md" beforeDir="false" />
+    <list default="true" id="9a076f73-4526-4478-83bf-946f4335d55b" name="Changes" comment="Dok">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ampfer" beforeDir="false" afterPath="$PROJECT_DIR$/Ampfer" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dokumentation/Jufo_Ampfermampfer_Dok/Ampfer_MampferV1.0.odt" beforeDir="false" afterPath="$PROJECT_DIR$/Dokumentation/Jufo_Ampfermampfer_Dok/Ampfer_MampferV1.0.odt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +22,19 @@
       </list>
     </option>
   </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Dokumentation/Dok/Jufo_Ampfermampfer_Dok" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="GitSEFilterConfiguration">
@@ -41,7 +58,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/XML" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -213,27 +235,76 @@
       <workItem from="1641279292676" duration="3998000" />
       <workItem from="1641375191760" duration="12589000" />
       <workItem from="1641406867651" duration="278000" />
+      <workItem from="1641407723458" duration="997000" />
+      <workItem from="1641409700962" duration="1940000" />
+      <workItem from="1641465391155" duration="3544000" />
+      <workItem from="1641544402743" duration="1856000" />
+      <workItem from="1641633925377" duration="2135000" />
     </task>
+    <task id="LOCAL-00001" summary="Dok">
+      <created>1641479238658</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1641479238658</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Dok">
+      <created>1641479649442</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1641479649442</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Dok">
+      <created>1641484950377</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1641484950377</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/Ampfer" />
+      <path value="$PROJECT_DIR$/Ampfer_Mampfer" />
+      <path value="$PROJECT_DIR$/Dokumentation/Dok/Jufo_Ampfermampfer_Dok" />
+      <path value="$PROJECT_DIR$/vision" />
+    </ignored-roots>
+    <MESSAGE value="Dok" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dok" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Ampfer_Mampfer$labelImg.coverage" NAME="labelImg Coverage Results" MODIFIED="1638628305530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/labelImg-1.8.1/labelImg-1.8.1" />
-    <SUITE FILE_PATH="coverage/Ampfer_Mampfer$test.coverage" NAME="test Coverage Results" MODIFIED="1641284735114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Ampfer_Mampfer$setup.coverage" NAME="setup Coverage Results" MODIFIED="1638625494605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/labelImg-1.8.1/labelImg-1.8.1" />
-    <SUITE FILE_PATH="coverage/Ampfer_Mampfer$Remove_Overlap_debug.coverage" NAME="Remove_Overlap_debug Coverage Results" MODIFIED="1641218619218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Ampfer_Mampfer$Get_xml_Drohe_niedrig.coverage" NAME="Get_xml_Drohe_niedrig Coverage Results" MODIFIED="1637517644696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Ampfer_Mampfer$resources.coverage" NAME="resources Coverage Results" MODIFIED="1638624922589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/labelImg-1.8.1/labelImg-1.8.1/libs" />
-    <SUITE FILE_PATH="coverage/Ampfer_Mampfer$coco_eval.coverage" NAME="coco_eval Coverage Results" MODIFIED="1637516625119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vision/references/detection" />
-    <SUITE FILE_PATH="coverage/Ampfer_Mampfer$.coverage" NAME=" Coverage Results" MODIFIED="1638627772036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/labelImg-1.8.1/labelImg-1.8.1/tests" />
-    <SUITE FILE_PATH="coverage/Ampfer_Mampfer$Remove_Overlap.coverage" NAME="Remove_Overlap Coverage Results" MODIFIED="1641284729811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Ampfer_Mampfer$test_koordinates.coverage" NAME="test_koordinates Coverage Results" MODIFIED="1638623935157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Ampfer_Mampfer$Get_Ampfer_Coordinates.coverage" NAME="Get_Ampfer_Coordinates Coverage Results" MODIFIED="1638706976344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Ampfer_Mampfer$Test_Map.coverage" NAME="Test_Map Coverage Results" MODIFIED="1638709738693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Ampfer_Mampfer$test_koordinates.coverage" NAME="test_koordinates Coverage Results" MODIFIED="1638623935157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Ampfer_Mampfer$get_Bildwinkel.coverage" NAME="get_Bildwinkel Coverage Results" MODIFIED="1641386300393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Ampfer_Mampfer$test.coverage" NAME="test Coverage Results" MODIFIED="1641284735114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Ampfer_Mampfer$Process_Images.coverage" NAME="Process_Images Coverage Results" MODIFIED="1641217001981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Ampfer_Mampfer$Remove_Overlap_debug.coverage" NAME="Remove_Overlap_debug Coverage Results" MODIFIED="1641218619218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Ampfer_Mampfer$get_Bildwinkel.coverage" NAME="get_Bildwinkel Coverage Results" MODIFIED="1641386300393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Ampfer_Mampfer$Get_Coordinates_Kalibirierung.coverage" NAME="Get_Coordinates_Kalibirierung Coverage Results" MODIFIED="1641378518002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Ampfer_Mampfer$Remove_Overlap.coverage" NAME="Remove_Overlap Coverage Results" MODIFIED="1641284729811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Ampfer_Mampfer$resources.coverage" NAME="resources Coverage Results" MODIFIED="1638624922589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/labelImg-1.8.1/labelImg-1.8.1/libs" />
+    <SUITE FILE_PATH="coverage/Ampfer_Mampfer$labelImg.coverage" NAME="labelImg Coverage Results" MODIFIED="1638628305530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/labelImg-1.8.1/labelImg-1.8.1" />
+    <SUITE FILE_PATH="coverage/Ampfer_Mampfer$coco_eval.coverage" NAME="coco_eval Coverage Results" MODIFIED="1637516625119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vision/references/detection" />
+    <SUITE FILE_PATH="coverage/Ampfer_Mampfer$Get_xml_Drohe_niedrig.coverage" NAME="Get_xml_Drohe_niedrig Coverage Results" MODIFIED="1637517644696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Ampfer_Mampfer$.coverage" NAME=" Coverage Results" MODIFIED="1638627772036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/labelImg-1.8.1/labelImg-1.8.1/tests" />
   </component>
 </project>
